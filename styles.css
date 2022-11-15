@@ -23,3 +23,12 @@
     font-size: 14px;
     font-weight: 200;
 }
+
+.comp-header {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer {
+    font-size: 10px;
+}
